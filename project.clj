@@ -5,6 +5,7 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.11.1"]
                  [org.clojure/core.match "1.0.0"]
+                 [methodical "0.15.1"]
                  [criterium "0.4.6"]]
   :aot :all
   :main poly-timing.core
